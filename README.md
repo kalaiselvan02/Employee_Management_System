@@ -1,2 +1,35 @@
 # Employee_Management_System
-Spring Boot Employee Management System with JWT-based authentication. Admins can add, update, delete, and list employees with profile photos. Employees can view their own profiles. Secured REST APIs with role-based access and BCrypt password encryption.
+
+Employee Management System
+
+A Spring Boot application for managing employees with JWT-based authentication and role-based access control.
+
+#Features
+
+Admin Role
+
+Add employees with profile photos
+
+Update employee details
+
+Delete employees
+
+View all employees
+
+Employee Role
+
+View own profile only
+
+#Technologies Used
+
+Spring Boot
+
+Spring Security with JWT
+
+#MySQL
+
+RESTful APIs
+
+BCrypt password encryption
+
+File upload for profile photos
